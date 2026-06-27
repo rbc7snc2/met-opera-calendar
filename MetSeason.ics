@@ -9,6 +9,13 @@ SUMMARY:Met Opera: Tosca
 UID:4ba4a0291482455e4e475c1b7410cb7b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Conductor: Yannick Nézet-Séguin\nSoloist: Angela Meade\nSoloist: Elza van den Heever\nSoloist: Erin Morley\nSoloist: Ekaterina Gubanova\nSoloist: Karen Cargill\nSoloist: Russell Thomas\nSoloist: Will Liverman\nSoloist: Ryan Speedo Green
+DURATION:PT3H
+DTSTART:20270611T230000Z
+SUMMARY:Met Opera: Mahler Symphony Number 8
+UID:1b6ea090ef6e0713e9f4cd4c846cd18f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Benoit/Alcindoro: Donald Maxwell\nColline: Adolfo Corrado\nConductor: Daniele Rustioni\nMarcello: Adam Plachetka\nMimì: Ermonela Jaho\nMusetta: Kathryn Lewek\nRodolfo: Pene Pati\nSchaunard: Germán Olvera
 DURATION:PT3H5M
 DTSTART:20270417T170000Z
@@ -338,6 +345,13 @@ SUMMARY:Met Opera: Parsifal
 UID:70c75ef3c69c34e670f6abb22ad4a004
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Conductor: Yannick Nézet-Séguin\nSoloist: Angela Meade\nSoloist: Elza van den Heever\nSoloist: Erin Morley\nSoloist: Ekaterina Gubanova\nSoloist: Karen Cargill\nSoloist: Russell Thomas\nSoloist: Will Liverman\nSoloist: Ryan Speedo Green
+DURATION:PT3H
+DTSTART:20270612T170000Z
+SUMMARY:Met Opera: Mahler Symphony Number 8
+UID:46f06aafd47b21807ce996e65d0524f2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
 DURATION:PT3H
 DTSTART:20270328T000000Z
@@ -399,6 +413,12 @@ DURATION:PT3H
 DTSTART:20261101T000000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:96389cf0ec1b655bdefcbb229d765865
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT3H
+DTSTART:20270525T220000Z
+SUMMARY:Met Opera: Met Opera Diamond Jubilee
+UID:764073b4fb7b0d4b4ec148f652f96201
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Cavaradossi: Matthew Polenzani\nConductor: Karel Mark Chichon\nSacristan: Patrick Carfizzi\nScarpia: Amartuvshin Enkhbat\nTosca: Eleonora Buratto
@@ -602,6 +622,12 @@ DURATION:PT3H
 DTSTART:20270120T000000Z
 SUMMARY:Met Opera: La Fanciulla del West
 UID:ed1f4edbd5346a2a418ce2fce0353eb0
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT3H
+DTSTART:20261119T003000Z
+SUMMARY:Met Opera: Asmik Grigorian in Concert
+UID:1ae0b8f8729b5e11d2d5959c00eb5755
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Benoit/Alcindoro: Richard Bernstein\nColline: William Guanbo Su\nConductor: Ramón Tebar\nMarcello: Anthony Clark Evans\nMimì: Kristina Mkhitaryan\nMusetta: Inna Demenkova\nRodolfo: Adam Smith\nSchaunard: Ricardo José Rivera
@@ -975,6 +1001,13 @@ SUMMARY:Met Opera: Jenufa
 UID:89530eba37ca0534b556abce01a69046
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Conductor: Yannick Nézet-Séguin\nSoloist: Angela Meade\nSoloist: Elza van den Heever\nSoloist: Erin Morley\nSoloist: Ekaterina Gubanova\nSoloist: Karen Cargill\nSoloist: Russell Thomas\nSoloist: Will Liverman\nSoloist: Ryan Speedo Green
+DURATION:PT3H
+DTSTART:20270610T230000Z
+SUMMARY:Met Opera: Mahler Symphony Number 8
+UID:9247272191e5130b223cb74352fc7635
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Cassio: Yongzhao Yu\nConductor: Daniele Rustioni\nDesdemona: Angel Blue\nEmilia: Jennifer Johnson Cano\nIago: Amartuvshin Enkhbat\nLodovico: Vitalij Kowaljow\nOtello: Michael Fabiano
 DURATION:PT2H55M
 DTSTART:20270116T180000Z
@@ -1113,6 +1146,12 @@ DURATION:PT3H35M
 DTSTART:20261219T003000Z
 SUMMARY:Met Opera: Samson et Dalila
 UID:51197a93cd1a231ace74d9076b65790d
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT3H
+DTSTART:20270321T190000Z
+SUMMARY:Met Opera: Laffont Grand Finals Concert
+UID:fd0727bd7c566e7082b89aff06aa9095
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Benoit/Alcindoro: Donald Maxwell\nColline: William Guanbo Su\nConductor: Ramón Tebar\nMarcello: Anthony Clark Evans\nMimì: Kristina Mkhitaryan\nMusetta: Inna Demenkova\nRodolfo: Adam Smith\nSchaunard: Ricardo José Rivera
