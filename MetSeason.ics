@@ -31,6 +31,7 @@ UID:49683af9114ef8f2d88df6e083653172
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DURATION:PT3H
 DTSTART:20270314T010000Z
 SUMMARY:Met Opera: Silent Night
 UID:6568525d397cf84993bcb7e58ef21410
@@ -44,6 +45,7 @@ UID:6d561d0a83711cc966f57f9eaac9589a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Banquo: Ryan Speedo Green\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Freddie De Tommaso
+DURATION:PT3H
 DTSTART:20261020T233000Z
 SUMMARY:Met Opera: Macbeth
 UID:7853c63fac9fb95cda002aed2a18ad60
@@ -64,24 +66,28 @@ UID:a52e6691f752a9cebbc2785a262fef82
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Banquo: Ryan Speedo Green\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Freddie De Tommaso
+DURATION:PT3H
 DTSTART:20261005T233000Z
 SUMMARY:Met Opera: Macbeth
 UID:9a47b6fccdcdd566322a87e6286b9d01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DURATION:PT3H
 DTSTART:20261104T003000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:0393ba452bf8f9666ece58bc55edd9cf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DURATION:PT3H
 DTSTART:20261107T180000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:c79baa28522649e104c212e47686d111
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DURATION:PT3H
 DTSTART:20270401T230000Z
 SUMMARY:Met Opera: Silent Night
 UID:6cc7f3867447579a69f41e7b247d2e70
@@ -123,12 +129,14 @@ UID:3916964c37ca1b97d89aca5fb4ad4918
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Banquo: Ryan Speedo Green\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Freddie De Tommaso
+DURATION:PT3H
 DTSTART:20260922T223000Z
 SUMMARY:Met Opera: Macbeth
 UID:1283296f2235bd13df160a95b6d4e545
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Conductor: Tomáš Hanus\nJenufa: Asmik Grigorian\nKostelnicka: Nina Stemme\nLaca: Allan Clayton\nŠteva: Sean Panikkar
+DURATION:PT3H
 DTSTART:20261201T003000Z
 SUMMARY:Met Opera: Jenufa
 UID:343f82bf1c9b452e631c8b95ae7c4fff
@@ -163,12 +171,14 @@ UID:ae155108694f17f70e8b25dc8e95aa96
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Banquo: Ryan Speedo Green\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Freddie De Tommaso
+DURATION:PT3H
 DTSTART:20261014T233000Z
 SUMMARY:Met Opera: Macbeth
 UID:0b29b44f0cad2f8bece07fa667297ac2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DURATION:PT3H
 DTSTART:20261024T170000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:59ea4626e7a95c79214f6ae7fb54f8cd
@@ -196,6 +206,7 @@ UID:37bca613db6415d5e21d998164108b17
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DURATION:PT3H
 DTSTART:20270316T233000Z
 SUMMARY:Met Opera: Silent Night
 UID:562f7511a2dc9753b7efba0af7258efc
@@ -223,6 +234,7 @@ UID:599b95b2724690cd25496d6cfbb16881
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DURATION:PT3H
 DTSTART:20270309T010000Z
 SUMMARY:Met Opera: Silent Night
 UID:f4f6274be5190ec30db6b326d56e20ae
@@ -264,6 +276,7 @@ UID:6bad0f09104b6da0ce65d243c733fabd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Banquo: Ryan Speedo Green\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Freddie De Tommaso
+DURATION:PT3H
 DTSTART:20260929T233000Z
 SUMMARY:Met Opera: Macbeth
 UID:b27f82cbbae0a8062aed60bb780bd1e0
@@ -326,12 +339,14 @@ UID:70c75ef3c69c34e670f6abb22ad4a004
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DURATION:PT3H
 DTSTART:20270328T000000Z
 SUMMARY:Met Opera: Silent Night
 UID:dc70c3898abdaa6a059b54fe152814b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DURATION:PT3H
 DTSTART:20270312T003000Z
 SUMMARY:Met Opera: Silent Night
 UID:d913261da2b1b652c95b0c850aa6ab6c
@@ -373,12 +388,14 @@ UID:48476bf43085c45efb33d77ac707d204
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Banquo: Ryan Speedo Green\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Freddie De Tommaso
+DURATION:PT3H
 DTSTART:20261011T190000Z
 SUMMARY:Met Opera: Macbeth
 UID:8e822fa97bd297e9667668c7ff180e37
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Steven Osgood\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DURATION:PT3H
 DTSTART:20261101T000000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:96389cf0ec1b655bdefcbb229d765865
@@ -448,6 +465,7 @@ UID:0039156ca2e75e5c607c72ec6b0e6df1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DURATION:PT3H
 DTSTART:20261029T233000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:003c60c4fd0c99ad5438e93dc80b9b6e
@@ -461,6 +479,7 @@ UID:5804d254d59a12d1488d16770638a48b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Conductor: Tomáš Hanus\nJenufa: Asmik Grigorian\nKostelnicka: Nina Stemme\nLaca: Allan Clayton\nŠteva: Sean Panikkar
+DURATION:PT3H
 DTSTART:20261205T003000Z
 SUMMARY:Met Opera: Jenufa
 UID:9a1f5a6b8712b2bb86534704f634b013
@@ -607,6 +626,7 @@ UID:7e4519c32b7bcf73c07bc623c12f110c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Conductor: Tomáš Hanus\nJenufa: Asmik Grigorian\nKostelnicka: Nina Stemme\nLaca: Allan Clayton\nŠteva: Sean Panikkar
+DURATION:PT3H
 DTSTART:20261117T003000Z
 SUMMARY:Met Opera: Jenufa
 UID:1e8a75241cdeaf167c875af8f0490952
@@ -655,6 +675,7 @@ UID:aef3f415071e81152b198c37673c6c6b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DURATION:PT3H
 DTSTART:20270320T170000Z
 SUMMARY:Met Opera: Silent Night
 UID:58d39c9f6028e4d5bae7c63e99d3a2c4
@@ -745,6 +766,7 @@ UID:6d7995bd07bff982819e26f0cf81132c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Banquo: Ryan Speedo Green\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Rafael Davila
+DURATION:PT3H
 DTSTART:20261002T233000Z
 SUMMARY:Met Opera: Macbeth
 UID:9b8df30472d7e60d3c8ae227c11cadee
@@ -758,6 +780,7 @@ UID:a4a2b6fc7f59f42e2440798fa6fa5348
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Banquo: Ryan Speedo Green\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Freddie De Tommaso
+DURATION:PT3H
 DTSTART:20260926T170000Z
 SUMMARY:Met Opera: Macbeth
 UID:ced37cd11e5645c9097bfec79fdbec9b
@@ -869,18 +892,21 @@ UID:236c17cf48e99a22f2cbcdc74f1525bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Conductor: Tomáš Hanus\nJenufa: Asmik Grigorian\nKostelnicka: Nina Stemme\nLaca: Allan Clayton\nŠteva: Sean Panikkar
+DURATION:PT3H
 DTSTART:20261124T003000Z
 SUMMARY:Met Opera: Jenufa
 UID:247df241359628476687561e3e59503d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Banquo: Ryan Speedo Green\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Freddie De Tommaso
+DURATION:PT3H
 DTSTART:20261008T233000Z
 SUMMARY:Met Opera: Macbeth
 UID:81a1c384bfab859d75b791d21bc50bc9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Conductor: Tomáš Hanus\nJenufa: Asmik Grigorian\nKostelnicka: Nina Stemme\nLaca: Allan Clayton\nŠteva: Sean Panikkar
+DURATION:PT3H
 DTSTART:20261128T180000Z
 SUMMARY:Met Opera: Jenufa
 UID:e7173fe9d269402d22ff6d3b53ffad8f
@@ -929,6 +955,7 @@ UID:b20d3a74ab3642a7749deb1d0767c6ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Banquo: Ryan Speedo Green\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Freddie De Tommaso
+DURATION:PT3H
 DTSTART:20261017T170000Z
 SUMMARY:Met Opera: Macbeth
 UID:926732822cd1f523eb18967536918687
@@ -942,6 +969,7 @@ UID:a3dfed8443d8ffb1ea62d8753693781c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Conductor: Tomáš Hanus\nJenufa: Asmik Grigorian\nKostelnicka: Nina Stemme\nLaca: Allan Clayton\nŠteva: Sean Panikkar
+DURATION:PT3H
 DTSTART:20261121T180000Z
 SUMMARY:Met Opera: Jenufa
 UID:89530eba37ca0534b556abce01a69046
@@ -1039,6 +1067,7 @@ UID:9cce31b9b71cb94c82968a5809cc96b5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Steven Osgood\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DURATION:PT3H
 DTSTART:20261115T010000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:127df328a79569310a6bca3482375b4d
@@ -1059,6 +1088,7 @@ UID:82d3a7d5df432438b7b06edfe8f18b28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DURATION:PT3H
 DTSTART:20261026T233000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:71ff119ff6802048ca1cb3cd14b82fc8
@@ -1107,6 +1137,7 @@ UID:22c2891818b670813bc711191527ef1c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DURATION:PT3H
 DTSTART:20261112T003000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:8dc7dab8338c2a86a732188224d36821
@@ -1225,12 +1256,14 @@ UID:c7e22236304ab07a1e6de38835e056ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DURATION:PT3H
 DTSTART:20270404T000000Z
 SUMMARY:Met Opera: Silent Night
 UID:c62de55c8d24342bafc7e0dec57f9d5e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DURATION:PT3H
 DTSTART:20261020T000000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:8718101f9ce1001ebd983c901a718399
@@ -1244,6 +1277,7 @@ UID:4072298e91d41c965c8e7195a20e2b58
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DURATION:PT3H
 DTSTART:20270323T000000Z
 SUMMARY:Met Opera: Silent Night
 UID:f34f7ea7222a19f6439d87c70c096cab
