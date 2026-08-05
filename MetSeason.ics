@@ -79,14 +79,14 @@ SUMMARY:Met Opera: Macbeth
 UID:9a47b6fccdcdd566322a87e6286b9d01
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261104T003000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:0393ba452bf8f9666ece58bc55edd9cf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261107T180000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -184,7 +184,7 @@ SUMMARY:Met Opera: Macbeth
 UID:0b29b44f0cad2f8bece07fa667297ac2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261024T170000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -408,7 +408,7 @@ SUMMARY:Met Opera: Macbeth
 UID:8e822fa97bd297e9667668c7ff180e37
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Steven Osgood\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Steven Osgood\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Michael Hurst
 DURATION:PT3H
 DTSTART:20261101T000000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -484,7 +484,7 @@ SUMMARY:Met Opera: Tosca
 UID:0039156ca2e75e5c607c72ec6b0e6df1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261029T233000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -1099,7 +1099,7 @@ SUMMARY:Met Opera: Cosi fan Tutte
 UID:9cce31b9b71cb94c82968a5809cc96b5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Steven Osgood\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Steven Osgood\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Michael Hurst
 DURATION:PT3H
 DTSTART:20261115T010000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -1120,7 +1120,7 @@ SUMMARY:Met Opera: Tosca
 UID:82d3a7d5df432438b7b06edfe8f18b28
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261026T233000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -1175,7 +1175,7 @@ SUMMARY:Met Opera: La Fanciulla del West
 UID:22c2891818b670813bc711191527ef1c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261112T003000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -1301,7 +1301,7 @@ SUMMARY:Met Opera: Silent Night
 UID:c62de55c8d24342bafc7e0dec57f9d5e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261020T000000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
