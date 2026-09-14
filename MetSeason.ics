@@ -23,7 +23,14 @@ SUMMARY:Met Opera: Manon
 UID:a635e310393ff7d4b694eef1647d2038
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DESCRIPTION:Abimélech: Alfred Walker\nConductor: Giacomo Sagripanti\nDalila: Aigul Akhmetshina\nHigh Priest of Dagon: Quinn Kelsey\nOld Hebrew: Morris Robinson\nSamson: Clay Hilley
+DURATION:PT3H35M
+DTSTART:20261202T003000Z
+SUMMARY:Met Opera: Samson et Dalila
+UID:49683af9114ef8f2d88df6e083653172
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nGeneral Audebert: James Creswell\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
 DURATION:PT3H
 DTSTART:20270314T010000Z
 SUMMARY:Met Opera: Silent Night
@@ -44,14 +51,14 @@ SUMMARY:Met Opera: Macbeth
 UID:7853c63fac9fb95cda002aed2a18ad60
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Annina: Eve Gigliotti\nBaron Ochs: Günther Groissböck\nConductor: Yannick Nézet-Séguin\nFaninal: Brian Mulligan\nInnkeeper: Thomas Capobianco\nItalian Singer: Matthew Polenzani\nMajor-Domo I: Tony Stevenson\nMajor-Domo II: Catherine Hamilton\nMarianne Leitmetzerin: Alexandria Shiner\nMarschallin: Rachel Willis-Sørensen\nNotary: Robert Pomakov\nOctavian: Emily D’Angelo\nPolice Commissar: Scott Conner\nSophie: Ying Fang\nValzacchi: Brenton Ryan\nWaiter 1: Nicholas Nestorak\nWaiter 3: Christopher Job\nWaiter 4: Richard Bernstein
+DESCRIPTION:Annina: Eve Gigliotti\nBaron Ochs: Günther Groissböck\nConductor: Yannick Nézet-Séguin\nFaninal: Brian Mulligan\nInnkeeper: Thomas Capobianco\nItalian Singer: Matthew Polenzani\nMajor-Domo I: Tony Stevenson\nMarianne Leitmetzerin: Alexandria Shiner\nMarschallin: Rachel Willis-Sørensen\nNotary: Robert Pomakov\nOctavian: Emily D’Angelo\nPolice Commissar: Scott Conner\nSophie: Ying Fang\nValzacchi: Brenton Ryan\nWaiter 1: Nicholas Nestorak\nWaiter 3: Christopher Job\nWaiter 4: Richard Bernstein
 DURATION:PT4H20M
 DTSTART:20270327T160000Z
 SUMMARY:Met Opera: Der Rosenkavalier
 UID:ac507b497094d571bed7d3e6d1ea3968
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Annina: Eve Gigliotti\nBaron Ochs: Günther Groissböck\nConductor: Yannick Nézet-Séguin\nFaninal: Brian Mulligan\nItalian Singer: Matthew Polenzani\nMarschallin: Rachel Willis-Sørensen\nOctavian: Emily D’Angelo\nSophie: Ying Fang\nValzacchi: Brenton Ryan
+DESCRIPTION:Annina: Eve Gigliotti\nBaron Ochs: Günther Groissböck\nConductor: Yannick Nézet-Séguin\nFaninal: Brian Mulligan\nInnkeeper: Thomas Capobianco\nItalian Singer: Matthew Polenzani\nMajor-Domo I: Tony Stevenson\nMarianne Leitmetzerin: Alexandria Shiner\nMarschallin: Rachel Willis-Sørensen\nNotary: Robert Pomakov\nOctavian: Emily D’Angelo\nPolice Commissar: Scott Conner\nSophie: Ying Fang\nValzacchi: Brenton Ryan\nWaiter 1: Nicholas Nestorak\nWaiter 3: Christopher Job\nWaiter 4: Richard Bernstein
 DURATION:PT4H20M
 DTSTART:20270410T233000Z
 SUMMARY:Met Opera: Der Rosenkavalier
@@ -65,21 +72,21 @@ SUMMARY:Met Opera: Macbeth
 UID:9a47b6fccdcdd566322a87e6286b9d01
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Craig Colclough\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261104T003000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:0393ba452bf8f9666ece58bc55edd9cf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Craig Colclough\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261107T180000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:c79baa28522649e104c212e47686d111
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nGeneral Audebert: James Creswell\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
 DURATION:PT3H
 DTSTART:20270401T230000Z
 SUMMARY:Met Opera: Silent Night
@@ -93,7 +100,7 @@ SUMMARY:Met Opera: La Boheme
 UID:6d76013c42afc4cc6bc04683516bf964
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Nicholas Carter\nMonostatos: Rodell Rosel\nPamina: Emily Pogorelc\nPapageno: Rolando Villazón\nQueen of the Night: Kathryn Lewek\nSarastro: Morris Robinson\nSpeaker: Vladyslav Buialskyi\nTamino: Piotr Buszewski
+DESCRIPTION:1st Lady: Caitlin Lynch\n2nd Armed Man: Matthew Anchel\n2nd Lady: Edyta Kulczak\n2nd Priest: Scott Scully\n3rd Lady: Eve Gigliotti\nConductor: Nicholas Carter\nMonostatos: Rodell Rosel\nPamina: Emily Pogorelc\nPapagena: Jazmine Saunders\nPapageno: Rolando Villazón\nQueen of the Night: Olga Pudova\nSarastro: Morris Robinson\nSpeaker: Vladyslav Buialskyi\nTamino: Piotr Buszewski
 DURATION:PT1H30M
 DTSTART:20261226T170000Z
 SUMMARY:Met Opera: The Magic Flute
@@ -156,7 +163,7 @@ SUMMARY:Met Opera: Aida
 UID:66cddffa384d718fa674ed3c4d6cec84
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nJack Rance: Christopher Maltman\nMinnie: Vida Miknevičiūtė
+DESCRIPTION:Ashby: Harold Wilson\nBello: Ben Brady\nBilly Jackrabbit: Paul Corona\nConductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nHarry: Joshua Blue\nJake Rance: Christopher Maltman\nLarkens: Thomas Glass\nMinnie: Vida Miknevičiūtė\nNick: William Burden\nSid: Jeongcheol Cha\nSonora: Ricardo José Rivera\nTrin: Alex Boyer\nWowkle: Sarah Saturnino
 DURATION:PT3H
 DTSTART:20270117T010000Z
 SUMMARY:Met Opera: La Fanciulla del West
@@ -170,11 +177,18 @@ SUMMARY:Met Opera: Macbeth
 UID:0b29b44f0cad2f8bece07fa667297ac2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Craig Colclough\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261024T170000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
 UID:59ea4626e7a95c79214f6ae7fb54f8cd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Abimélech: Alfred Walker\nConductor: Giacomo Sagripanti\nDalila: Aigul Akhmetshina\nHigh Priest of Dagon: Quinn Kelsey\nOld Hebrew: Morris Robinson\nSamson: Clay Hilley
+DURATION:PT3H35M
+DTSTART:20261128T003000Z
+SUMMARY:Met Opera: Samson et Dalila
+UID:aaca0dccf288c109b1d214833485a6b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Cassio: Yongzhao Yu\nConductor: Daniele Rustioni\nDesdemona: Angel Blue\nEmilia: Jennifer Johnson Cano\nHerald: David Crawford\nIago: Amartuvshin Enkhbat\nLodovico: Vitalij Kowaljow\nOtello: Michael Fabiano
@@ -191,14 +205,14 @@ SUMMARY:Met Opera: Otello
 UID:37bca613db6415d5e21d998164108b17
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nGeneral Audebert: James Creswell\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
 DURATION:PT3H
 DTSTART:20270316T233000Z
 SUMMARY:Met Opera: Silent Night
 UID:562f7511a2dc9753b7efba0af7258efc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Nicholas Carter\nMonostatos: Rodell Rosel\nPamina: Emily Pogorelc\nPapageno: Rolando Villazón\nQueen of the Night: Kathryn Lewek\nSarastro: Morris Robinson\nSpeaker: Vladyslav Buialskyi\nTamino: Piotr Buszewski
+DESCRIPTION:1st Lady: Caitlin Lynch\n2nd Armed Man: Matthew Anchel\n2nd Lady: Edyta Kulczak\n2nd Priest: Scott Scully\n3rd Lady: Eve Gigliotti\nConductor: Nicholas Carter\nMonostatos: Rodell Rosel\nPamina: Emily Pogorelc\nPapagena: Jazmine Saunders\nPapageno: Rolando Villazón\nQueen of the Night: Kathryn Lewek\nSarastro: Morris Robinson\nSpeaker: Vladyslav Buialskyi\nTamino: Piotr Buszewski
 DURATION:PT1H30M
 DTSTART:20261228T160000Z
 SUMMARY:Met Opera: The Magic Flute
@@ -219,7 +233,7 @@ SUMMARY:Met Opera: Cosi fan Tutte
 UID:599b95b2724690cd25496d6cfbb16881
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Anna Sørensen: Elza van den Heever\nBritish Major: Raymond Aceto\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nGeneral Audebert: James Creswell\nJonathan Dale: Ben Reisinger\nKronprinz: Chad Shelton\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nMadeleine Audebert: Emma Marhefka\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nGeneral Audebert: James Creswell\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
 DURATION:PT3H
 DTSTART:20270309T010000Z
 SUMMARY:Met Opera: Silent Night
@@ -261,7 +275,7 @@ SUMMARY:Met Opera: Maria Stuarda
 UID:6bad0f09104b6da0ce65d243c733fabd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Banquo: Ryan Speedo Green\nComposers: Bradley Garvin\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Freddie De Tommaso
+DESCRIPTION:Banquo: Ryan Speedo Green\nConductor: Yannick Nézet-Séguin\nLady Macbeth: Lise Davidsen\nMacbeth: Quinn Kelsey\nMacduff: Freddie De Tommaso
 DURATION:PT3H
 DTSTART:20260929T233000Z
 SUMMARY:Met Opera: Macbeth
@@ -296,14 +310,21 @@ SUMMARY:Met Opera: Medea
 UID:eb515f96900fd24756d9524a28055d37
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Patrick Furrer\nMonostatos: Thomas Capobianco\nPamina: Kathryn Lewek\nPapageno: Gordon Bintner\nQueen of the Night: Jeni Houser\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
+DESCRIPTION:1st Lady: Jasmin Ward\n2nd Armed Man: Richard Bernstein\n2nd Lady: Briana Hunter\n2nd Priest: David Blalock\nConductor: Patrick Furrer\nMonostatos: Thomas Capobianco\nPamina: Kathryn Lewek\nPapageno: Gordon Bintner\nQueen of the Night: Jeni Houser\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
 DURATION:PT1H30M
 DTSTART:20270102T230000Z
 SUMMARY:Met Opera: The Magic Flute
 UID:006b71992c6dcf5889bbb5baea7b562f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:1st Lady: Jasmin Ward\n2nd Armed Man: Richard Bernstein\n2nd Lady: Briana Hunter\n2nd Priest: David Blalock\nConductor: Nicholas Carter\nMonostatos: Thomas Capobianco\nPamina: Emma Marhefka\nPapagena: Gordon Bintner\nPapageno: Gordon Bintner\nQueen of the Night: Jeni Houser\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
+DESCRIPTION:Abimélech: Alfred Walker\nConductor: Giacomo Sagripanti\nDalila: Aigul Akhmetshina\nHigh Priest of Dagon: Quinn Kelsey\nOld Hebrew: Morris Robinson\nSamson: Clay Hilley
+DURATION:PT3H35M
+DTSTART:20261224T003000Z
+SUMMARY:Met Opera: Samson et Dalila
+UID:46a9236e0e60dbdb1aae9465d8f14e3a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:1st Lady: Jasmin Ward\n2nd Armed Man: Richard Bernstein\n2nd Lady: Briana Hunter\n2nd Priest: David Blalock\nConductor: Nicholas Carter\nMonostatos: Thomas Capobianco\nPamina: Emma Marhefka\nPapageno: Gordon Bintner\nQueen of the Night: Jeni Houser\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
 DURATION:PT1H30M
 DTSTART:20261213T190000Z
 SUMMARY:Met Opera: The Magic Flute
@@ -317,14 +338,14 @@ SUMMARY:Met Opera: Parsifal
 UID:70c75ef3c69c34e670f6abb22ad4a004
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nGeneral Audebert: James Creswell\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
 DURATION:PT3H
 DTSTART:20270328T000000Z
 SUMMARY:Met Opera: Silent Night
 UID:dc70c3898abdaa6a059b54fe152814b6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nGeneral Audebert: James Creswell\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
 DURATION:PT3H
 DTSTART:20270312T003000Z
 SUMMARY:Met Opera: Silent Night
@@ -373,7 +394,7 @@ SUMMARY:Met Opera: Macbeth
 UID:8e822fa97bd297e9667668c7ff180e37
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Steven Osgood\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Michael Hurst
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Craig Colclough\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Michael Hurst
 DURATION:PT3H
 DTSTART:20261101T000000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -443,7 +464,7 @@ SUMMARY:Met Opera: Tosca
 UID:0039156ca2e75e5c607c72ec6b0e6df1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Craig Colclough\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261029T233000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -485,7 +506,7 @@ SUMMARY:Met Opera: Aida
 UID:3152fd9d814c9358dd35aa3125a734f2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nJack Rance: Christopher Maltman\nMinnie: Vida Miknevičiūtė
+DESCRIPTION:Ashby: Harold Wilson\nBello: Ben Brady\nBilly Jackrabbit: Paul Corona\nConductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nHarry: Joshua Blue\nJake Rance: Christopher Maltman\nLarkens: Thomas Glass\nMinnie: Vida Miknevičiūtė\nNick: William Burden\nSid: Jeongcheol Cha\nSonora: Ricardo José Rivera\nTrin: Alex Boyer\nWowkle: Sarah Saturnino
 DURATION:PT3H
 DTSTART:20270114T000000Z
 SUMMARY:Met Opera: La Fanciulla del West
@@ -520,7 +541,7 @@ SUMMARY:Met Opera: Maria Stuarda
 UID:b2d53cc35ef11bd37d0cc3ecb1176815
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Nicholas Carter\nMonostatos: Rodell Rosel\nPamina: Emily Pogorelc\nPapageno: Rolando Villazón\nQueen of the Night: Olga Pudova\nSarastro: Morris Robinson\nSpeaker: Vladyslav Buialskyi\nTamino: Piotr Buszewski
+DESCRIPTION:1st Lady: Caitlin Lynch\n2nd Armed Man: Matthew Anchel\n2nd Lady: Edyta Kulczak\n2nd Priest: Scott Scully\n3rd Lady: Eve Gigliotti\nConductor: Nicholas Carter\nMonostatos: Rodell Rosel\nPamina: Emily Pogorelc\nPapagena: Jazmine Saunders\nPapageno: Rolando Villazón\nQueen of the Night: Olga Pudova\nSarastro: Morris Robinson\nSpeaker: Vladyslav Buialskyi\nTamino: Piotr Buszewski
 DURATION:PT1H30M
 DTSTART:20270102T170000Z
 SUMMARY:Met Opera: The Magic Flute
@@ -548,7 +569,7 @@ SUMMARY:Met Opera: Manon
 UID:9e08485b81b021fc2863bc02f42f220b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Annina: Eve Gigliotti\nBaron Ochs: Günther Groissböck\nFaninal: Brian Mulligan\nInnkeeper: Thomas Capobianco\nItalian Singer: Matthew Polenzani\nMajor-Domo I: Tony Stevenson\nMarianne Leitmetzerin: Alexandria Shiner\nMarschallin: Rachel Willis-Sørensen\nNotary: Robert Pomakov\nOctavian: Emily D’Angelo\nPolice Commissar: Scott Conner\nSophie: Ying Fang\nValzacchi: Brenton Ryan\nWaiter 1: Nicholas Nestorak\nWaiter 3: Christopher Job\nWaiter 4: Richard Bernstein
+DESCRIPTION:Annina: Eve Gigliotti\nBaron Ochs: Günther Groissböck\nConductor: Yannick Nézet-Séguin\nFaninal: Brian Mulligan\nInnkeeper: Thomas Capobianco\nItalian Singer: Matthew Polenzani\nMajor-Domo I: Tony Stevenson\nMarianne Leitmetzerin: Alexandria Shiner\nMarschallin: Rachel Willis-Sørensen\nNotary: Robert Pomakov\nOctavian: Emily D’Angelo\nPolice Commissar: Scott Conner\nSophie: Ying Fang\nValzacchi: Brenton Ryan\nWaiter 1: Nicholas Nestorak\nWaiter 3: Christopher Job\nWaiter 4: Richard Bernstein
 DURATION:PT4H20M
 DTSTART:20270324T230000Z
 SUMMARY:Met Opera: Der Rosenkavalier
@@ -576,7 +597,7 @@ SUMMARY:Met Opera: Aida
 UID:5cfad584d10be79737f6cb7b95b3b24d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nJack Rance: Christopher Maltman\nMinnie: Vida Miknevičiūtė
+DESCRIPTION:Ashby: Harold Wilson\nBello: Ben Brady\nBilly Jackrabbit: Paul Corona\nConductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nHarry: Joshua Blue\nJake Rance: Christopher Maltman\nLarkens: Thomas Glass\nMinnie: Vida Miknevičiūtė\nNick: William Burden\nSid: Jeongcheol Cha\nSonora: Ricardo José Rivera\nTrin: Alex Boyer\nWowkle: Sarah Saturnino
 DURATION:PT3H
 DTSTART:20270120T000000Z
 SUMMARY:Met Opera: La Fanciulla del West
@@ -590,7 +611,7 @@ SUMMARY:Met Opera: La Boheme
 UID:7469d97097b68b1e8770d7507852ffae
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Nicholas Carter\nMonostatos: Rodell Rosel\nPamina: Emily Pogorelc\nPapageno: Rolando Villazón\nQueen of the Night: Olga Pudova\nSarastro: Morris Robinson\nSpeaker: Vladyslav Buialskyi\nTamino: Piotr Buszewski
+DESCRIPTION:1st Lady: Caitlin Lynch\n2nd Armed Man: Matthew Anchel\n2nd Lady: Edyta Kulczak\n2nd Priest: Scott Scully\n3rd Lady: Eve Gigliotti\nConductor: Nicholas Carter\nMonostatos: Rodell Rosel\nPamina: Emily Pogorelc\nPapagena: Jazmine Saunders\nPapageno: Rolando Villazón\nQueen of the Night: Olga Pudova\nSarastro: Morris Robinson\nSpeaker: Vladyslav Buialskyi\nTamino: Piotr Buszewski
 DURATION:PT1H30M
 DTSTART:20261218T000000Z
 SUMMARY:Met Opera: The Magic Flute
@@ -618,7 +639,7 @@ SUMMARY:Met Opera: The Magic Flute
 UID:3e7d20824f9093282d16e46abdece957
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Nicholas Carter\nMonostatos: Thomas Capobianco\nPamina: Emma Marhefka\nPapageno: Gordon Bintner\nQueen of the Night: Jeni Houser\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
+DESCRIPTION:1st Lady: Jasmin Ward\n2nd Armed Man: Richard Bernstein\n2nd Lady: Briana Hunter\n2nd Priest: David Blalock\nConductor: Nicholas Carter\nMonostatos: Thomas Capobianco\nPamina: Emma Marhefka\nPapageno: Gordon Bintner\nQueen of the Night: Jeni Houser\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
 DURATION:PT1H30M
 DTSTART:20261219T180000Z
 SUMMARY:Met Opera: The Magic Flute
@@ -653,7 +674,7 @@ SUMMARY:Met Opera: Parsifal
 UID:aef3f415071e81152b198c37673c6c6b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nGeneral Audebert: James Creswell\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
 DURATION:PT3H
 DTSTART:20270320T170000Z
 SUMMARY:Met Opera: Silent Night
@@ -665,6 +686,13 @@ DURATION:PT3H5M
 DTSTART:20270117T200000Z
 SUMMARY:Met Opera: Tosca
 UID:7f82550f350f04dc79e21a71cf982bef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Abimélech: Alfred Walker\nConductor: Giacomo Sagripanti\nDalila: Aigul Akhmetshina\nHigh Priest of Dagon: Quinn Kelsey\nOld Hebrew: Morris Robinson\nSamson: Clay Hilley
+DURATION:PT3H35M
+DTSTART:20261209T003000Z
+SUMMARY:Met Opera: Samson et Dalila
+UID:5dc5b47f02c0a380aa3867b69dbade9e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Cassio: Piotr Buszewski\nConductor: Michele Mariotti\nDesdemona: Ailyn Pérez\nEmilia: Deborah Nansteel\nIago: Artur Ruciński\nLodovico: Vitalij Kowaljow\nMontano: Aleksey Bogdanov\nOtello: Brian Jagde\nRoderigo: Angel Raii Gomez
@@ -716,7 +744,7 @@ SUMMARY:Met Opera: Medea
 UID:fe7ead94453d9ff3dc5b28c10d387ba5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nJack Rance: Christopher Maltman\nMinnie: Vida Miknevičiūtė
+DESCRIPTION:Ashby: Harold Wilson\nBello: Ben Brady\nBilly Jackrabbit: Paul Corona\nConductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nHarry: Joshua Blue\nJake Rance: Christopher Maltman\nLarkens: Thomas Glass\nMinnie: Vida Miknevičiūtė\nNick: William Burden\nSid: Jeongcheol Cha\nSonora: Ricardo José Rivera\nTrin: Alex Boyer\nWowkle: Sarah Saturnino
 DURATION:PT3H
 DTSTART:20270106T003000Z
 SUMMARY:Met Opera: La Fanciulla del West
@@ -730,7 +758,7 @@ SUMMARY:Met Opera: La Boheme
 UID:a5f86fc4cb0f1eb519315720bfdf8d46
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Annina: Eve Gigliotti\nBaron Ochs: Günther Groissböck\nConductor: Yannick Nézet-Séguin\nFaninal: Brian Mulligan\nItalian Singer: Matthew Polenzani\nMarschallin: Rachel Willis-Sørensen\nOctavian: Emily D’Angelo\nSophie: Ying Fang\nValzacchi: Brenton Ryan
+DESCRIPTION:Annina: Eve Gigliotti\nBaron Ochs: Günther Groissböck\nConductor: Yannick Nézet-Séguin\nFaninal: Brian Mulligan\nInnkeeper: Thomas Capobianco\nItalian Singer: Matthew Polenzani\nMajor-Domo I: Tony Stevenson\nMarianne Leitmetzerin: Alexandria Shiner\nMarschallin: Rachel Willis-Sørensen\nNotary: Robert Pomakov\nOctavian: Emily D’Angelo\nPolice Commissar: Scott Conner\nSophie: Ying Fang\nValzacchi: Brenton Ryan\nWaiter 1: Nicholas Nestorak\nWaiter 3: Christopher Job\nWaiter 4: Richard Bernstein
 DURATION:PT4H20M
 DTSTART:20270407T230000Z
 SUMMARY:Met Opera: Der Rosenkavalier
@@ -758,7 +786,7 @@ SUMMARY:Met Opera: Macbeth
 UID:ced37cd11e5645c9097bfec79fdbec9b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Patrick Furrer\nMonostatos: Thomas Capobianco\nPamina: Kathryn Lewek\nPapageno: Gordon Bintner\nQueen of the Night: Olga Pudova\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
+DESCRIPTION:1st Lady: Jasmin Ward\n2nd Armed Man: Richard Bernstein\n2nd Lady: Briana Hunter\n2nd Priest: David Blalock\nConductor: Patrick Furrer\nMonostatos: Thomas Capobianco\nPamina: Kathryn Lewek\nPapageno: Gordon Bintner\nQueen of the Night: Olga Pudova\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
 DURATION:PT1H30M
 DTSTART:20261230T170000Z
 SUMMARY:Met Opera: The Magic Flute
@@ -786,7 +814,7 @@ SUMMARY:Met Opera: La Boheme
 UID:49175aa26cf562865861a49c103a0218
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nJack Rance: Christopher Maltman\nMinnie: Vida Miknevičiūtė
+DESCRIPTION:Ashby: Harold Wilson\nBello: Ben Brady\nBilly Jackrabbit: Paul Corona\nConductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nHarry: Joshua Blue\nJake Rance: Christopher Maltman\nLarkens: Thomas Glass\nMinnie: Vida Miknevičiūtė\nNick: William Burden\nSid: Jeongcheol Cha\nSonora: Ricardo José Rivera\nTrin: Alex Boyer\nWowkle: Sarah Saturnino
 DURATION:PT3H
 DTSTART:20270109T003000Z
 SUMMARY:Met Opera: La Fanciulla del West
@@ -821,7 +849,7 @@ SUMMARY:Met Opera: Medea
 UID:165872d0014812e15b7a0334b14635d9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nJack Rance: Christopher Maltman\nMinnie: Vida Miknevičiūtė
+DESCRIPTION:Ashby: Harold Wilson\nBello: Ben Brady\nBilly Jackrabbit: Paul Corona\nConductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nHarry: Joshua Blue\nJake Rance: Christopher Maltman\nLarkens: Thomas Glass\nMinnie: Vida Miknevičiūtė\nNick: William Burden\nSid: Jeongcheol Cha\nSonora: Ricardo José Rivera\nTrin: Alex Boyer\nWowkle: Sarah Saturnino
 DURATION:PT3H
 DTSTART:20270128T003000Z
 SUMMARY:Met Opera: La Fanciulla del West
@@ -884,18 +912,18 @@ SUMMARY:Met Opera: Jenufa
 UID:e7173fe9d269402d22ff6d3b53ffad8f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Nicholas Carter\nMonostatos: Rodell Rosel\nPamina: Emily Pogorelc\nPapageno: Rolando Villazón\nQueen of the Night: Olga Pudova\nSarastro: Morris Robinson\nSpeaker: Vladyslav Buialskyi\nTamino: Piotr Buszewski
+DESCRIPTION:Abimélech: Alfred Walker\nConductor: Giacomo Sagripanti\nDalila: Aigul Akhmetshina\nHigh Priest of Dagon: Quinn Kelsey\nOld Hebrew: Morris Robinson\nSamson: Clay Hilley
+DURATION:PT3H35M
+DTSTART:20261205T170000Z
+SUMMARY:Met Opera: Samson et Dalila
+UID:7f7c6950357206be0bf2eb9022be9d39
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:1st Lady: Caitlin Lynch\n2nd Armed Man: Matthew Anchel\n2nd Lady: Edyta Kulczak\n2nd Priest: Scott Scully\n3rd Lady: Eve Gigliotti\nConductor: Nicholas Carter\nMonostatos: Rodell Rosel\nPamina: Emily Pogorelc\nPapagena: Jazmine Saunders\nPapageno: Rolando Villazón\nQueen of the Night: Olga Pudova\nSarastro: Morris Robinson\nSpeaker: Vladyslav Buialskyi\nTamino: Piotr Buszewski
 DURATION:PT1H30M
 DTSTART:20261220T190000Z
 SUMMARY:Met Opera: The Magic Flute
 UID:b7db1a9b85f5e7cbe580942951307c62
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Cavaradossi: SeokJong Baek\nConductor: Oksana Lyniv\nSacristan: Paul Corona\nScarpia: Quinn Kelsey\nTosca: Saioa Hernández
-DURATION:PT3H5M
-DTSTART:20261110T003000Z
-SUMMARY:Met Opera: Tosca
-UID:b686fe0f6c4ab7c56cd282669a3bebf1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Benoit/Alcindoro: Donald Maxwell\nColline: William Guanbo Su\nConductor: Ramón Tebar\nMarcello: Anthony Clark Evans\nMimì: Kristina Mkhitaryan\nMusetta: Inna Demenkova\nRodolfo: Adam Smith\nSchaunard: Ricardo José Rivera
@@ -903,6 +931,13 @@ DURATION:PT3H5M
 DTSTART:20261031T170000Z
 SUMMARY:Met Opera: La Boheme
 UID:c26d1192c8dcb347b8db97c464b966a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cavaradossi: SeokJong Baek\nConductor: Oksana Lyniv\nSacristan: Paul Corona\nScarpia: Quinn Kelsey\nTosca: Saioa Hernández
+DURATION:PT3H5M
+DTSTART:20261110T003000Z
+SUMMARY:Met Opera: Tosca
+UID:b686fe0f6c4ab7c56cd282669a3bebf1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Aida: Angel Blue\nAmneris: Judit Kutasi\nAmonasro: Quinn Kelsey\nConductor: Daniele Callegari\nKing: Huanhong Li\nMessenger: Robert Watson\nPriestess: Katie Van Kooten\nRadamès: Michael Fabiano\nRamfis: Alexander Köpeczi
@@ -945,6 +980,13 @@ DURATION:PT2H55M
 DTSTART:20270116T180000Z
 SUMMARY:Met Opera: Otello
 UID:a166c0c5fbc19e087fae9026b7efe861
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Abimélech: Alfred Walker\nConductor: Giacomo Sagripanti\nDalila: Aigul Akhmetshina\nHigh Priest of Dagon: Quinn Kelsey\nOld Hebrew: Morris Robinson\nSamson: Clay Hilley
+DURATION:PT3H35M
+DTSTART:20261213T010000Z
+SUMMARY:Met Opera: Samson et Dalila
+UID:95b486edd0f005e245e9af8ddff2158f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Aida: Leah Hawkins\nAmneris: Olesya Petrova\nAmonasro: Michael Chioldi\nConductor: Marco Armiliato\nKing: Krzysztof Bączyk\nMessenger: Eric Taylor\nRadamès: SeokJong Baek\nRamfis: Soloman Howard
@@ -1024,7 +1066,7 @@ SUMMARY:Met Opera: Cosi fan Tutte
 UID:9cce31b9b71cb94c82968a5809cc96b5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Steven Osgood\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Michael Hurst
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Craig Colclough\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Michael Hurst
 DURATION:PT3H
 DTSTART:20261115T010000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -1045,7 +1087,7 @@ SUMMARY:Met Opera: Tosca
 UID:82d3a7d5df432438b7b06edfe8f18b28
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Craig Colclough\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261026T233000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -1066,6 +1108,13 @@ SUMMARY:Met Opera: La Boheme
 UID:b4cc833dfc03cb8da70a2f26bb9f4ed1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Abimélech: Alfred Walker\nConductor: Giacomo Sagripanti\nDalila: Aigul Akhmetshina\nHigh Priest of Dagon: Quinn Kelsey\nOld Hebrew: Morris Robinson\nSamson: Clay Hilley
+DURATION:PT3H35M
+DTSTART:20261219T003000Z
+SUMMARY:Met Opera: Samson et Dalila
+UID:51197a93cd1a231ace74d9076b65790d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Benoit/Alcindoro: Donald Maxwell\nColline: William Guanbo Su\nConductor: Ramón Tebar\nMarcello: Anthony Clark Evans\nMimì: Kristina Mkhitaryan\nMusetta: Inna Demenkova\nRodolfo: Adam Smith\nSchaunard: Ricardo José Rivera
 DURATION:PT3H5M
 DTSTART:20261029T000000Z
@@ -1073,14 +1122,21 @@ SUMMARY:Met Opera: La Boheme
 UID:7243e097fc7b2ee267f8aa4aab27e018
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nJack Rance: Christopher Maltman\nMinnie: Vida Miknevičiūtė
+DESCRIPTION:Abimélech: Thomas Hall\nConductor: Giacomo Sagripanti\nDalila: Aigul Akhmetshina\nHigh Priest of Dagon: Quinn Kelsey\nOld Hebrew: Morris Robinson\nSamson: Clay Hilley
+DURATION:PT3H35M
+DTSTART:20261216T003000Z
+SUMMARY:Met Opera: Samson et Dalila
+UID:72200ca4a886d9516d892be417499668
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ashby: Harold Wilson\nBello: Ben Brady\nBilly Jackrabbit: Paul Corona\nConductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nHarry: Joshua Blue\nJake Rance: Christopher Maltman\nLarkens: Thomas Glass\nMinnie: Vida Miknevičiūtė\nNick: William Burden\nSid: Jeongcheol Cha\nSonora: Ricardo José Rivera\nTrin: Alex Boyer\nWowkle: Sarah Saturnino
 DURATION:PT3H
 DTSTART:20270131T010000Z
 SUMMARY:Met Opera: La Fanciulla del West
 UID:22c2891818b670813bc711191527ef1c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Craig Colclough\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261112T003000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -1115,14 +1171,14 @@ SUMMARY:Met Opera: Otello
 UID:f1d3a5ff977ba49d9624eaf2534b15c6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nJack Rance: Christopher Maltman\nMinnie: Vida Miknevičiūtė
+DESCRIPTION:Ashby: Harold Wilson\nBello: Ben Brady\nBilly Jackrabbit: Paul Corona\nConductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nHarry: Joshua Blue\nJake Rance: Christopher Maltman\nLarkens: Thomas Glass\nMinnie: Vida Miknevičiūtė\nNick: William Burden\nSid: Jeongcheol Cha\nSonora: Ricardo José Rivera\nTrin: Alex Boyer\nWowkle: Sarah Saturnino
 DURATION:PT3H
 DTSTART:20270123T180000Z
 SUMMARY:Met Opera: La Fanciulla del West
 UID:ec9af1a1ab7188f15737b4ec4b2f1999
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Annina: Eve Gigliotti\nBaron Ochs: Günther Groissböck\nConductor: Yannick Nézet-Séguin\nFaninal: Brian Mulligan\nItalian Singer: Matthew Polenzani\nMarschallin: Rachel Willis-Sørensen\nOctavian: Emily D’Angelo\nSophie: Ying Fang\nValzacchi: Brenton Ryan
+DESCRIPTION:Annina: Eve Gigliotti\nBaron Ochs: Günther Groissböck\nConductor: Yannick Nézet-Séguin\nFaninal: Brian Mulligan\nInnkeeper: Thomas Capobianco\nItalian Singer: Matthew Polenzani\nMajor-Domo I: Tony Stevenson\nMarianne Leitmetzerin: Alexandria Shiner\nMarschallin: Rachel Willis-Sørensen\nNotary: Robert Pomakov\nOctavian: Emily D’Angelo\nPolice Commissar: Scott Conner\nSophie: Ying Fang\nValzacchi: Brenton Ryan\nWaiter 1: Nicholas Nestorak\nWaiter 3: Christopher Job\nWaiter 4: Richard Bernstein
 DURATION:PT4H20M
 DTSTART:20270404T180000Z
 SUMMARY:Met Opera: Der Rosenkavalier
@@ -1192,21 +1248,21 @@ SUMMARY:Met Opera: Cosi fan Tutte
 UID:170edee18b83e59c2afa6b82dd501fb2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Nicholas Carter\nMonostatos: Thomas Capobianco\nPamina: Emma Marhefka\nPapageno: Gordon Bintner\nQueen of the Night: Kathryn Lewek\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
+DESCRIPTION:1st Lady: Jasmin Ward\n2nd Armed Man: Richard Bernstein\n2nd Lady: Briana Hunter\n2nd Priest: David Blalock\nConductor: Nicholas Carter\nMonostatos: Thomas Capobianco\nPamina: Emma Marhefka\nPapageno: Gordon Bintner\nQueen of the Night: Kathryn Lewek\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
 DURATION:PT1H30M
 DTSTART:20261224T170000Z
 SUMMARY:Met Opera: The Magic Flute
 UID:c7e22236304ab07a1e6de38835e056ea
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nGeneral Audebert: James Creswell\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
 DURATION:PT3H
 DTSTART:20270404T000000Z
 SUMMARY:Met Opera: Silent Night
 UID:c62de55c8d24342bafc7e0dec57f9d5e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nDoodling Pennsylvanian: Scott Scully\nGinger Chap from Maine: Christopher Job\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Michael Mayes\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
+DESCRIPTION:Bevins: Jonah Hoskins\nConductor: Yannick Nézet-Séguin\nLincoln: Peter Mattei\nMiss Elise Traynor: Anthony Roth Costanzo\nMr. Baron: Craig Colclough\nMrs. Baron: Stephanie Blythe\nMrs. Francis Hodge: Janai Brugger\nReverend: Christine Goerke\nThomas Havens: Joshua Blue\nVollman: Ryan McKinny\nWillie Lincoln: Everett Sobers
 DURATION:PT3H
 DTSTART:20261020T000000Z
 SUMMARY:Met Opera: Lincoln in the Bardo
@@ -1220,7 +1276,7 @@ SUMMARY:Met Opera: Manon
 UID:4072298e91d41c965c8e7195a20e2b58
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
+DESCRIPTION:Anna Sørensen: Elza van den Heever\nConductor: Dalia Stasevska\nFather Palmer: Kyle Ketelsen\nGeneral Audebert: James Creswell\nJonathan Dale: Ben Reisinger\nLt. Audebert: Mattia Olivieri\nLt. Gordon: Justin Austin\nLt. Horstmayer: Ryan McKinny\nNikolaus Sprink: Ben Bliss\nPonchel: Rolando Villazón
 DURATION:PT3H
 DTSTART:20270323T000000Z
 SUMMARY:Met Opera: Silent Night
@@ -1234,14 +1290,14 @@ SUMMARY:Met Opera: Tosca
 UID:1fa334226bffa2bdc972afd9d5eab1d5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nJack Rance: Christopher Maltman\nMinnie: Vida Miknevičiūtė
+DESCRIPTION:Ashby: Harold Wilson\nBello: Ben Brady\nBilly Jackrabbit: Paul Corona\nConductor: Keri-Lynn Wilson\nDick Johnson: SeokJong Baek\nHarry: Joshua Blue\nJake Rance: Christopher Maltman\nLarkens: Thomas Glass\nMinnie: Vida Miknevičiūtė\nNick: William Burden\nSid: Jeongcheol Cha\nSonora: Ricardo José Rivera\nTrin: Alex Boyer\nWowkle: Sarah Saturnino
 DURATION:PT3H
 DTSTART:20261231T233000Z
 SUMMARY:Met Opera: La Fanciulla del West
 UID:17e5418cd279f0ed7329097deef4ca4e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Conductor: Patrick Furrer\nMonostatos: Thomas Capobianco\nPamina: Kathryn Lewek\nPapageno: Gordon Bintner\nQueen of the Night: Jeni Houser\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
+DESCRIPTION:1st Lady: Jasmin Ward\n2nd Armed Man: Richard Bernstein\n2nd Lady: Briana Hunter\n2nd Priest: David Blalock\nConductor: Patrick Furrer\nMonostatos: Thomas Capobianco\nPamina: Kathryn Lewek\nPapageno: Gordon Bintner\nQueen of the Night: Jeni Houser\nSarastro: In Sung Sim\nSpeaker: Nicholas Newton\nTamino: David Portillo
 DURATION:PT1H30M
 DTSTART:20261226T230000Z
 SUMMARY:Met Opera: The Magic Flute
